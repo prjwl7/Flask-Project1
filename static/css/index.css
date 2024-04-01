@@ -12,9 +12,10 @@ body {
 }
 
 .mainContainer{
+    padding: 10vh;
     display: flex;
-    flex-direction: column;
     justify-content: center;
-    align-items: center;
+    align-items: flex-start;
     height: 100vh;
+    gap: 20%;
 }
